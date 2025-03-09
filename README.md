@@ -1,7 +1,3 @@
-Here is a suggested `README.md` for your project, which explains its purpose, usage, and the option to generate a single-file executable:
-
----
-
 # Robocopy GUI Project
 
 ## Overview
