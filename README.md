@@ -1,2 +1,2 @@
 ﻿# robocop-gui2
-Made to solve simple task and test Microsoft Copliot coding
+Made to solve simple task and test Microsoft Copilot coding
